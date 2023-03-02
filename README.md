@@ -13,3 +13,7 @@ The use of contemporary open-source technologies can bring numerous benefits to 
 5. Scalability: Open-source technologies are designed to be highly scalable, which means they can be used for projects of any size. This makes them an ideal choice for academic research projects that may vary in scope and complexity.
 
 Overall, the use of contemporary open-source technologies can help academic research projects to be more efficient, cost-effective, collaborative, flexible, transparent, and scalable. As a result, researchers can focus more on their research objectives, and achieve better outcomes in their research endeavors.
+
+I will be adding more boilerplate sample codes that can be used to achieve different goals! Stay tuned!
+
+Disclaimer: The content in this repository is solely my responsibility. If you have any questions or concerns, please feel free to email jksinamo@gmail.com.
