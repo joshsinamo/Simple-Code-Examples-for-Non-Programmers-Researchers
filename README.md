@@ -1,5 +1,3 @@
-# Simple-Code-Example-for-Non-Programmers-Researchers
-
 The use of contemporary open-source technologies can bring numerous benefits to academic research projects, making them more efficient and effective. Here are some ways in which these technologies can help:
 
 1. Cost-effective: Open-source technologies are generally free to use, which can significantly reduce the cost of research projects. This means that researchers can invest more resources in conducting experiments or collecting data, rather than spending money on expensive software licenses.
